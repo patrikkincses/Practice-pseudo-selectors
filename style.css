@@ -1,0 +1,54 @@
+.container {
+   display: block;
+   width: 300px;
+   
+}
+
+p:hover {
+    display: block;
+    background:rgb(179, 69, 18);
+}
+
+.p1 {
+    border: solid 1px black;
+    border-top: none;
+    margin: 0px;
+    padding: 30px;
+}
+
+.p2 {
+    border: solid 1px black;
+    margin: 0px;
+    padding: 30px;
+}
+
+.p3 {
+    border: solid 1px black;
+    margin: 0px;
+    padding: 30px;
+}
+
+.p4 {
+    border: solid 1px black;
+    margin: 0px;
+    padding: 30px;
+}
+
+.p5 {
+    border: solid 1px black;
+    margin: 0px;
+    padding: 30px;
+}
+
+.p6 {
+    border: solid 1px black;
+    margin: 0px;
+    padding: 30px;
+}
+
+.p7 {
+    border: solid 1px black;
+    border-bottom: none;
+    margin: 0px;
+    padding: 30px;
+}
